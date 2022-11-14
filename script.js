@@ -19,7 +19,12 @@ function getpasswordoptions() {
 
 
 
+function generatePassword(){
+  console.log("Hello")
+  getpasswordoptions()
+  return "Whats your password now?"
 
+}
 
 
 
